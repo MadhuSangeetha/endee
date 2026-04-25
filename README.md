@@ -1,3 +1,13 @@
+# 🚀 Internship Submission: CodeSense — Semantic Code Intelligence
+
+**Candidate:** Madhu Sangeetha | **Batch:** 2027  
+**Project Folder:** [`/codesense`](./codesense)  
+**Quick Links:** [Technical Documentation](./codesense/README.md) | [Architecture Diagram](./codesense/README.md#🏗️-system-architecture)
+
+---
+> **Note to Reviewers:** This project demonstrates AST-based code chunking and Endee's Asymmetrical BM25 Hybrid Search. A zero-dependency "Live Mock Mode" is implemented for immediate UI evaluation.
+
+---
 <p align="center">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-dark.svg">
